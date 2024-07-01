@@ -1,0 +1,21 @@
+form {
+    margin: 0 auto;
+    width:10%; /* adjust the width as needed */
+    text-align: center;
+  }
+  
+  form input, form label, form button {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  form input, form button {
+    width: 100%; /* adjust the width as needed */
+  }
+  
+  form label {
+    text-align: left;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
